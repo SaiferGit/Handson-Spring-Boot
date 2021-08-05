@@ -1,0 +1,1 @@
+In this repository I have done CRUD operation using Spring boot. Add a jar file which can be run anywhere, also any number of instances can be run. The things I have learned are mentioned in md files.
